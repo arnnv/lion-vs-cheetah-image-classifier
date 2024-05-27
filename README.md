@@ -2,6 +2,9 @@
 
 This project is a classifier that can distinguish between images of lions and cheetahs using the Inception v3 model.
 
+## Dataset
+Obtained from kaggle: [Click here](https://www.kaggle.com/datasets/mikoajfish99/lions-or-cheetahs-image-classification)
+
 ## Installation
 
 1. Clone the repository:
